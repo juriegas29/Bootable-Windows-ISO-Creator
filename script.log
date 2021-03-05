@@ -1,0 +1,15 @@
+=====================================================
+Log Beginning
+Script : Bootable Windows ISO Creator
+Script Version : 0.5.0-beta
+Timestamp : Fri03-05-2021_4-47-08.20
+=====================================================
+User did not execute script as Administrator before prompting. User will be prompted now.
+User refused the prompted Privilege Escalation. This may cause errors depending on output folder.
+User set the Source Path to "C:\Users\killer\Downloads\"
+User set the Destination Path to "C:\Users\killer\Downloads\"
+User set the OSCDIMG Path to C:\Users\killer\OneDrive\Documents\GitHub\Bootable-Windows-ISO-Creator 
+User set the ETFS Path to C:\Users\killer\OneDrive\Documents\GitHub\Bootable-Windows-ISO-Creator 
+User set the EFISYS Path to C:\Users\killer\OneDrive\Documents\GitHub\Bootable-Windows-ISO-Creator
+Now processing.
+User chose to run the script as Administrator after prompting. Now acquiring Admin rights.
